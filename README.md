@@ -1,5 +1,5 @@
 # Key-Server
-A Node.js + Sqlite Example for creating a Key Assigning, Releasing logic
+A Node.js + Mysql Example for creating a Key Assigning, Releasing logic
 
 
 npm install
